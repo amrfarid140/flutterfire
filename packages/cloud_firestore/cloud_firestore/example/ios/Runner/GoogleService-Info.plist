@@ -2,39 +2,35 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
-	<string>ca-app-pub-3940256099942544/2934735716</string>
-	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
-	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>159623150305-1iiqqggbff817a8bpnalo64nuc3qobid.apps.googleusercontent.com</string>
+	<string>256654387282-70a9t973ruepsq5teopvbktp1d33v321.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.159623150305-1iiqqggbff817a8bpnalo64nuc3qobid</string>
+	<string>com.googleusercontent.apps.256654387282-70a9t973ruepsq5teopvbktp1d33v321</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDyzecVw1zXTpBKwfFHxpl7QyYBhimNhUk</string>
+	<string>AIzaSyBG1yRHcsZctGeCm4T864ayV79kIJYdO0M</string>
 	<key>GCM_SENDER_ID</key>
-	<string>159623150305</string>
+	<string>256654387282</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>io.flutter.plugins.firestoreExample</string>
 	<key>PROJECT_ID</key>
-	<string>flutter-firebase-plugins</string>
+	<string>rivercourtdoor</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flutter-firebase-plugins.appspot.com</string>
+	<string>rivercourtdoor.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true></true>
+	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
 	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false></false>
+	<true></true>
 	<key>IS_GCM_ENABLED</key>
 	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:159623150305:ios:7e8aafdf0bd8d289</string>
+	<string>1:256654387282:ios:60bb5a8f467fe23856178b</string>
 	<key>DATABASE_URL</key>
-	<string>https://flutter-firebase-plugins.firebaseio.com</string>
+	<string>https://rivercourtdoor.firebaseio.com</string>
 </dict>
 </plist>

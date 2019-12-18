@@ -1,39 +1,95 @@
 {
   "project_info": {
-    "project_number": "159623150305",
-    "firebase_url": "https://flutter-firebase-plugins.firebaseio.com",
-    "project_id": "flutter-firebase-plugins",
-    "storage_bucket": "flutter-firebase-plugins.appspot.com"
+    "project_number": "256654387282",
+    "firebase_url": "https://rivercourtdoor.firebaseio.com",
+    "project_id": "rivercourtdoor",
+    "storage_bucket": "rivercourtdoor.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:159623150305:android:236f9daea101f77e",
+        "mobilesdk_app_id": "1:256654387282:android:4caaef8498f225ec56178b",
         "android_client_info": {
           "package_name": "io.flutter.plugins.firebase.firestoreexample"
         }
       },
       "oauth_client": [
         {
-          "client_id": "159623150305-q05bbbtsutr02abhips3suj7hujfk4bg.apps.googleusercontent.com",
+          "client_id": "256654387282-beq37gsnjea3lvf0ika4vo81vrsp98nk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyChk3KEG7QYrs4kQPLP1tjJNxBTbfCAdgg"
+          "current_key": "AIzaSyAQd3WuylGlm3eg9b_kKGMp9cxydQHDwi0"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256654387282-beq37gsnjea3lvf0ika4vo81vrsp98nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256654387282:android:9b4919c40ba411f4",
+        "android_client_info": {
+          "package_name": "me.amryousef.camerax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256654387282-beq37gsnjea3lvf0ika4vo81vrsp98nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQd3WuylGlm3eg9b_kKGMp9cxydQHDwi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256654387282-beq37gsnjea3lvf0ika4vo81vrsp98nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256654387282:android:a0b53a3ee60513ef",
+        "android_client_info": {
+          "package_name": "me.amryousef.homedoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256654387282-beq37gsnjea3lvf0ika4vo81vrsp98nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQd3WuylGlm3eg9b_kKGMp9cxydQHDwi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256654387282-beq37gsnjea3lvf0ika4vo81vrsp98nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
